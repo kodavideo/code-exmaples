@@ -1,4 +1,4 @@
-// fun loving operator protocol
+// A Discord bot script that checks language for relative negativity and alerts moderation staff.
 
 module.exports = async function (msg, args) {
   // `m` is a message object that will be passed through the filter function
