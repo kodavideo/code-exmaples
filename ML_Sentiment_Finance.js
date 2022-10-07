@@ -1,4 +1,4 @@
-//heavy operation procedure
+//a deep learning model that fits NLP sentiment to financial oscillators to derive a sentiment momentum indicator
 
 module.exports = async function (msg, args) {
 
